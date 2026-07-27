@@ -1,6 +1,7 @@
 ---
 title: ""
 description: ""
+date: "{{date:YYYY-MM-DD}}"
 tags:
   - 固定ページ
 aliases: []

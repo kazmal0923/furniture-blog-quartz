@@ -1,6 +1,7 @@
 ---
 title: ""
 description: ""
+date: "{{date:YYYY-MM-DD}}"
 tags:
   - 商品解説
 aliases: []

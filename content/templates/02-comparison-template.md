@@ -1,6 +1,7 @@
 ---
 title: ""
 description: ""
+date: "{{date:YYYY-MM-DD}}"
 tags:
   - 比較
 aliases: []
